@@ -8,7 +8,7 @@ _Live Example: https://nuxtjs-template.vercel.app_
 
 ## Setup
 
-Install the dependencies:
+Install the dependencies and say hello:
 
 ```bash
 yarn install
